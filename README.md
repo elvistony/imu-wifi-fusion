@@ -1,4 +1,4 @@
-# Unlocking Indoor Navigation: A Journey with Wi-Fi and IMU Sensor Fusion
+# Expanding Indoor Navigation: A Journey with Wi-Fi and IMU Sensor Fusion
 #### MASTERS DISSERTATION - Source Code
 
 
